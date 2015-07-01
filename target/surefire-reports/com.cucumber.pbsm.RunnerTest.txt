@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: com.cucumber.pbsm.RunnerTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 2, Skipped: 1, Time elapsed: 9.268 sec <<< FAILURE!
+When Click on Product Builder link(Scenario: Navigate to Product builder applicaiton)  Time elapsed: 0.002 sec  <<< ERROR!
+java.lang.NullPointerException
+	at com.cucumber.pbsm.StepDefination1.Pblink(StepDefination1.java:76)
+	at ✽.When Click on Product Builder link(Productbuilder.feature:6)
+
+Scenario: Navigate to Product builder applicaiton  Time elapsed: 0.003 sec  <<< ERROR!
+java.lang.NullPointerException
+	at com.cucumber.pbsm.StepDefination1.Pblink(StepDefination1.java:76)
+	at ✽.When Click on Product Builder link(Productbuilder.feature:6)
+
